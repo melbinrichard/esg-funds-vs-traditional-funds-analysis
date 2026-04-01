@@ -17,6 +17,12 @@ This objective analyzes return stability, variation, and medium-term performance
 ### 3. How well do fund holdings align with ESG values?
 This objective evaluates ESG and non-ESG funds based on fossil fuel exposure, carbon footprint, carbon intensity, financed emissions, gender equality, and deforestation-related indicators.
 
+## Tableau Dashboard
+
+You can view the interactive Tableau dashboard here:  
+[ESG Fund Analysis Dashboard](https://public.tableau.com/views/ESGFundAnalysisGroup14/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+
 ## Tools Used
 
 - Python
